@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Virginia, 2028 (expected)
+* M.S. in Applied Mathematics, Columbia University, 2020
+* B.A. in Mathematics, Washington University in St. Louis, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* January 2021- August 2023: Artificial Intelligence Engineer
+  * MITRE (McLean, VA)
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
